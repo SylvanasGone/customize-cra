@@ -1,13 +1,10 @@
 {
   "name": "customize-cra",
-  "version": "0.2.12",
-  "description": "",
-  "repository": "arackaf/customize-cra",
+  "version": "0.1.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Adam Rackis",
   "license": "MIT",
   "dependencies": {
     "lodash.flow": "^3.5.0"
